@@ -12,7 +12,7 @@ public class PrimeirosPassosApplication {
     }
     calculadora calculadora = new calculadora();
 
-  System.out.println("ok");
+  System.out.println(calculadora.soma(2, 3 );
 
 
 }
